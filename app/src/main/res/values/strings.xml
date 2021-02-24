@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley + Picasso + RecyclerView</string>
+    <string name="creater_name">Creater Name</string>
+    <string name="likes">Likes</string>
+</resources>
